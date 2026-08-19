@@ -1,0 +1,1 @@
+#The most important principle of object orientation is encapsulation: the idea that data inside the object should only be accessed through a public interface – that is, the object’s methods.
